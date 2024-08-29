@@ -1,0 +1,37 @@
+body {
+    
+
+}
+
+
+.header, .upper {
+    background-color: #282c34;
+
+}
+
+h1 {
+    color: #e3e3eb;
+}
+
+p {
+    color: #6d757d;
+}
+
+a {
+    text-decoration: none;
+    color: #6d757d;
+}
+
+/* 
+#e3e3eb
+#5e7df1
+#232b34
+#6d757d
+#6d757d
+#9da8c8
+#b4b4bb
+#616771
+#505561
+#56596f
+#444c55
+*/
